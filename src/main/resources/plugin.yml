@@ -1,0 +1,4 @@
+name: Kotlin
+version: '${version}'
+main: xyz.gameoholic.paperkotlin.PaperKotlin
+api-version: 1.20
